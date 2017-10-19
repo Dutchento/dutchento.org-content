@@ -29,8 +29,7 @@ Format:
   </li>
 </ul>
 
-<h2>Betalingen</h2>
-<h3>Payment Service Providers</h3>
+<h2>Payment Service Providers</h2>
 <ul>
 <li>Pay.nl (Pay.nl)
   <ul>
@@ -92,12 +91,7 @@ Format:
  	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-koppeling-bolt-kassasysteem/" target="_blank" rel="noopener">Magento Koppeling BOLT kassasysteem </a>(Younify)</li>
  	<li><a href="https://www.frmwrk.nl/magento/vendit-webshop" target="_blank" rel="noopener">ShopConnector - de koppeling tussen Magento en Vendit VMSII</a> (FRMWRK)</li>
 </ul>
-<strong>Belastingtarieven</strong>
-<ul>
- 	<li>Voor Benelux, Open Source Edition: <a title="Download Magento Belastingtarieven Benelux" href="https://www.box.com/shared/kd7k65vbem" target="_blank" rel="noopener">download</a></li>
- 	<li>Voor Nederland, Commerce Edition: <a title="Download Magento belastingtarieven Nederland" href="https://www.box.com/shared/xiduaihr5q" target="_blank" rel="noopener">download</a></li>
-</ul>
-Het .csv bestand dien je te importeren via "<em>Sales &gt; Tax &gt; Import / Export Tax Rates</em>"
+
 <h2>Localisatie</h2>
 Magento 2
 <ul>
