@@ -30,8 +30,8 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
 <ul>
  	<li>MultiSafePay (MultiSafePay)
     <ul>
-     <li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">MultiSafepay</a></li>
-      <li><a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a></li>
+     <li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">Magento 1</a></li>
+      <li>Magento 2: <a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a> | <a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento-2-1/">MultiSafePay</a></li>
      </li>
     </ul>
  	<li>Mollie (Mollie) 
