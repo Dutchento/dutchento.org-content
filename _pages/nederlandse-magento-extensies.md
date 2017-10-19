@@ -14,11 +14,14 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
 <ul>
   <li>Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.
     <ul>
-   	 <li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen)</li>
- 	   <li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData)</li>
+   	 <li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen).</li>
+ 	   <li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData).</li>
       <li>Is een vertaling van een extentie naar het Nederlands.</li>
       <li>Maakt een bestaande extensie (beter) geschikt voor implementatie in Nederland.</li>
     </ul>
+  <li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
+  <li>Link bij voorkeur naar de officiele pagina van de extensie op de <a href="https://marketplace.magento.com">Magento Marketplace</a>, of anders naar de productpagina van de ontwikkelaar.</li>
+  <li>Als de extensie niet gratis is, geef dit dan aan door [€] achter de extensie te zetten.</li>
   </li>
 </ul>
 
