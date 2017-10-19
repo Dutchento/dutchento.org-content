@@ -9,25 +9,7 @@ permalink: >
 published: true
 post_date: 2010-09-08 21:42:35
 ---
-Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a> of <a href="https://github.com/Dutchento/dutchento.org-content/blob/master/_pages/nederlandse-magento-extensies.md">dien een pull request in op GitHub</a>!
-<h3>Richtlijnen voor onderstaande extensies:</h3>
-Inhoudelijk:
-<ul>
-  <li>Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.
-    <ul>
-   	 <li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen).</li>
- 	   <li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData).</li>
-      <li>Is een vertaling van een extensie naar het Nederlands.</li>
-      <li>Maakt een bestaande extensie (beter) geschikt voor implementatie in Nederland.</li>
-    </ul>
-</ul>
-Format: 
-<ul>
-<li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
-  <li>Link bij voorkeur naar de officiele pagina van de extensie op de <a href="https://marketplace.magento.com">Magento Marketplace</a>, of anders naar de productpagina van de ontwikkelaar.</li>
-  <li>Als de extensie niet gratis is, geef dit dan aan door [€] achter de extensie te zetten.</li>
-  </li>
-</ul>
+Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a> of <a href="https://github.com/Dutchento/dutchento.org-content/blob/master/_pages/nederlandse-magento-extensies.md">dien een pull request in op GitHub</a> en <a href="#Richtlijnen">bekijk de richtlijnen</a> voor het toevoegen van extensies!
 
 <h2>Payment Service Providers</h2>
 <ul>
@@ -183,4 +165,32 @@ Magento 1
 <ul>
  	<li><a title="Better Address Layout" href="http://www.magaddons.com/better-address-layout.html" target="_blank" rel="noopener">Better Address Layout</a> (Mindstretch)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/onestepcheckout/" target="_blank" rel="noopener">OneStepCheckout </a>(Younify)</li>
+</ul>
+
+<a name="Richtlijnen"></a><h3>Richtlijnen voor het toevoegen van extensies aan deze lijst:</h3>
+<strong>Inhoudelijk:</strong>
+<ul>
+  <li>Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.
+    <ul>
+   	 <li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen).</li>
+ 	   <li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData).</li>
+      <li>Is een vertaling van een extensie naar het Nederlands.</li>
+      <li>Maakt een bestaande extensie (beter) geschikt voor implementatie in Nederland.</li>
+    </ul>
+</ul>
+<strong>Format: </strong>
+<ul>
+<li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
+  <li>Link bij voorkeur naar de officiele pagina van de extensie op de <a href="https://marketplace.magento.com">Magento Marketplace</a>, of anders naar de productpagina van de ontwikkelaar.</li>
+  <li>Als de extensie niet gratis is, geef dit dan aan door [€] achter de extensie te zetten.</li>
+  </li>
+</ul>
+Standaard format met maximale info:
+<ul>
+  <li>Naam extensie
+    <ul>
+      <li>Magento 1: <a href="" target="_blank" rel="noopener">Marketplace</a> | <a href="" target="_blank" rel="noopener">Github</a> | <a href="" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (Naam ontwikkelaar)</li>
+      <li>Magento 2: <a href="" target="_blank" rel="noopener">Marketplace</a> | <a href="" target="_blank" rel="noopener">Github</a> | <a href="" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (Naam ontwikkelaar)</li>
+    </ul>
+  </li>
 </ul>
