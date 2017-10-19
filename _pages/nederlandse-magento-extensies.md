@@ -169,15 +169,13 @@ Magento 1
 <hr />
 <a name="Richtlijnen"></a><h3>Richtlijnen voor het toevoegen van extensies aan deze lijst:</h3>
 <strong>Inhoudelijk:</strong>
-<ul>
-  <li>Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.
+Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.
     <ul>
    	 <li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen).</li>
  	   <li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData).</li>
       <li>Is een vertaling van een extensie naar het Nederlands.</li>
       <li>Maakt een bestaande extensie (beter) geschikt voor implementatie in Nederland.</li>
     </ul>
-</ul>
 <strong>Format: </strong>
 <ul>
 <li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
