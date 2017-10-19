@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2010-09-08 21:42:35
 ---
-Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a> of <a href="https://github.com/Dutchento/dutchento.org-content/blob/master/_pages/nederlandse-magento-extensies.md">dien een pull request in op GitHub</a>!
+Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions" target="_blank" rel="noopener">Plaats je suggesties op ons forum</a> of <a href="https://github.com/Dutchento/dutchento.org-content/blob/master/_pages/nederlandse-magento-extensies.md" target="_blank" rel="noopener">dien een pull request in op GitHub</a>!
 <h3>Richtlijnen voor onderstaande extensies:</h3>
 Inhoudelijk:
 <ul>
@@ -24,7 +24,7 @@ Inhoudelijk:
 Format: 
 <ul>
 <li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
-  <li>Link bij voorkeur naar de officiele pagina van de extensie op de <a href="https://marketplace.magento.com">Magento Marketplace</a>, of anders naar de productpagina van de ontwikkelaar.</li>
+  <li>Link bij voorkeur naar de officiele pagina van de extensie op de <a href="https://marketplace.magento.com" target="_blank" rel="noopener">Magento Marketplace</a>, of anders naar de productpagina van de ontwikkelaar.</li>
   <li>Als de extensie niet gratis is, geef dit dan aan door [€] achter de extensie te zetten.</li>
   </li>
 </ul>
@@ -33,19 +33,19 @@ Format:
 <ul>
 <li>Pay.nl (Pay.nl)
   <ul>
-    <li>Magento 2: <a href="https://marketplace.magento.com/paynl-magento2-plugin.html">Marketplace</a></li>
+    <li>Magento 2: <a href="https://marketplace.magento.com/paynl-magento2-plugin.html" target="_blank" rel="noopener">Marketplace</a></li>
   </ul>
 </li>
 <li>MultiSafePay (MultiSafePay)
     <ul>
      <li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">Magento 1</a></li>
-      <li>Magento 2: <a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a> | <a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento-2-1/">MultiSafePay</a></li>
+      <li>Magento 2: <a href="https://marketplace.magento.com/multisafepay-magento2msp.html" target="_blank" rel="noopener">Marketplace</a> | <a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento-2-1/" target="_blank" rel="noopener">MultiSafePay</a></li>
      </li>
     </ul>
  	<li>Mollie (Mollie) 
     <ul>
-      <li>Magento 1: <a href="https://github.com/mollie/magento">Github</a></li>
-      <li>Magento 2: <a href="https://github.com/mollie/magento2">Github</a> | <a href="https://marketplace.magento.com/mollie-magento2.html">Marketplace</a></li>
+      <li>Magento 1: <a href="https://github.com/mollie/magento" target="_blank" rel="noopener">Github</a></li>
+      <li>Magento 2: <a href="https://github.com/mollie/magento2" target="_blank" rel="noopener">Github</a> | <a href="https://marketplace.magento.com/mollie-magento2.html" target="_blank" rel="noopener">Marketplace</a></li>
     </ul>
    </li>
  	<li>Buckaroo (TIG)
@@ -56,14 +56,14 @@ Format:
 </li>
  	<li>Adyen (Adyen)
    <ul>
-     <li><a href="https://github.com/Adyen/adyen-magento">Magento 1</a></li>
-     <li><a href="https://github.com/Adyen/adyen-magento2">Magento 2</a></li>
+     <li><a href="https://github.com/Adyen/adyen-magento" target="_blank" rel="noopener">Magento 1</a></li>
+     <li><a href="https://github.com/Adyen/adyen-magento2" target="_blank" rel="noopener">Magento 2</a></li>
    </ul>
   </li>
  	<li>IcePay (IcePay)
     <ul>
-      <li><a href="https://icepay.com/nl/webshop-modules/magento-advanced/">Magento 1</a></li>
-      <li><a href="https://icepay.com/nl/webshop-modules/magento-2/">Magento 2</a></li>
+      <li><a href="https://icepay.com/nl/webshop-modules/magento-advanced/" target="_blank" rel="noopener">Magento 1</a></li>
+      <li><a href="https://icepay.com/nl/webshop-modules/magento-2/" target="_blank" rel="noopener">Magento 2</a></li>
     </ul>
   </li>
  	<li>iDEAL
@@ -95,7 +95,7 @@ Format:
 <h2>Localisatie</h2>
 Magento 2
 <ul>
-  <li><a href="https://marketplace.magento.com/honl-magento2-nl-nl.html">Marketplace</a> | <a href="https://crowdin.com/translate/magento-2/1374/enus-nl">CrowdIn</a> (H&O)</li>
+  <li><a href="https://marketplace.magento.com/honl-magento2-nl-nl.html" target="_blank" rel="noopener">Marketplace</a> | <a href="https://crowdin.com/translate/magento-2/1374/enus-nl" target="_blank" rel="noopener">CrowdIn</a> (H&O)</li>
 </ul>
 Magento 1
 <ul>
@@ -139,7 +139,7 @@ Magento 1
 <h2>Logistiek</h2>
 Magento 2
 <ul>
-  <li><a title="Magento 2 - Postcode.nl Validatie" href="https://github.com/experius/Magento-2-Module-Experius-Postcode-NL">Postcode.nl Validatie - Github</a> (Experius)</li>
+  <li><a title="Magento 2 - Postcode.nl Validatie" href="https://github.com/experius/Magento-2-Module-Experius-Postcode-NL" target="_blank" rel="noopener">Postcode.nl Validatie - Github</a> (Experius)</li>
 </ul>
 Magento 1
 <ul>
