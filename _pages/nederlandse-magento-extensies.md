@@ -137,6 +137,11 @@ Magento 1
  	<li style="text-align: left;"><a href="http://www.toverteam.nl/magento-twinfield-koppeling" target="_blank" rel="noopener">Magento Twinfield Koppeling</a> (ToverTeam Internet Marketing)</li>
 </ul>
 <h2>Logistiek</h2>
+Magento 2
+<ul>
+  <li><a title="Magento 2 - Postcode.nl Validatie" href="https://github.com/experius/Magento-2-Module-Experius-Postcode-NL">Postcode.nl Validatie - Github</a> (Experius)</li>
+</ul>
+Magento 1
 <ul>
  	<li><a title="Magento - DPD DELIsprint" href="http://www.magentocommerce.com/magento-connect/dpd-delisprint-integration-5212.html" target="_blank" rel="noopener">DPD DELIsprint</a> (XTENTO)</li>
  	<li><a title="Magento - GLS Labellite" href="http://www.magentocommerce.com/magento-connect/magento-gls-labellite.html" target="_blank" rel="noopener">GLS Labellite</a> (Mindstretch)</li>
