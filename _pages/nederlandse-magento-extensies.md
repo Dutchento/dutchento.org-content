@@ -10,6 +10,17 @@ published: true
 post_date: 2010-09-08 21:42:35
 ---
 Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a> of <a href="https://github.com/Dutchento/dutchento.org-content/blob/master/_pages/nederlandse-magento-extensies.md">dien een pull request in op GitHub</a>!
+<h2>Richtlijnen voor onderstaande extensies:</h2>
+<ul>
+  <li>Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.<ul>
+   	<li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen)</li>
+ 	<li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData)</li>
+ 	<li>Is een vertaling van een extentie naar het Nederlands.
+<ul>
+  </li>
+  
+</ul>
+
 <h2>Betalingen</h2>
 <h3>Payment Service Providers</h3>
 <ul>
