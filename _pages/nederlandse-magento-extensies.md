@@ -17,7 +17,7 @@ Inhoudelijk:
     <ul>
    	 <li>Ontsluit specifieke functionaliteit (bijv. iDeal betalingen).</li>
  	   <li>Brengt een koppeling tot stand met specifieke Nederlandse producten/diensten (zoals DocData).</li>
-      <li>Is een vertaling van een extentie naar het Nederlands.</li>
+      <li>Is een vertaling van een extensie naar het Nederlands.</li>
       <li>Maakt een bestaande extensie (beter) geschikt voor implementatie in Nederland.</li>
     </ul>
 </ul>
