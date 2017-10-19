@@ -10,7 +10,8 @@ published: true
 post_date: 2010-09-08 21:42:35
 ---
 Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a> of <a href="https://github.com/Dutchento/dutchento.org-content/blob/master/_pages/nederlandse-magento-extensies.md">dien een pull request in op GitHub</a>!
-<h2>Richtlijnen voor onderstaande extensies:</h2>
+<h3>Richtlijnen voor onderstaande extensies:</h3>
+Inhoudelijk:
 <ul>
   <li>Extensie is specifiek gericht op de Nederlandse markt of Nederlandse taalgebied.
     <ul>
@@ -19,7 +20,10 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
       <li>Is een vertaling van een extentie naar het Nederlands.</li>
       <li>Maakt een bestaande extensie (beter) geschikt voor implementatie in Nederland.</li>
     </ul>
-  <li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
+</ul>
+Format: 
+<ul>
+<li>Wanneer er meerdere extensies hetzelfde doen, geef dan tussen haakjes () aan wie de ontwikkelaar is.</li>
   <li>Link bij voorkeur naar de officiele pagina van de extensie op de <a href="https://marketplace.magento.com">Magento Marketplace</a>, of anders naar de productpagina van de ontwikkelaar.</li>
   <li>Als de extensie niet gratis is, geef dit dan aan door [€] achter de extensie te zetten.</li>
   </li>
