@@ -28,16 +28,36 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
 <h2>Betalingen</h2>
 <h3>Payment Service Providers</h3>
 <ul>
- 	<li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">MultiSafepay Payment Module</a></li>
- 	<li><a href="https://www.mollie.com/en/developers/packages" target="_blank" rel="noopener">Mollie</a></li>
- 	<li>Buckaroo
+ 	<li>MultiSafePay (MultiSafePay)
+    <ul>
+     <li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">MultiSafepay</a></li>
+      <li><a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a></li>
+     </li>
+    </ul>
+ 	<li>Mollie (Mollie) 
+    <ul>
+      <li>Magento 1: <a href="https://github.com/mollie/magento">Github</a></li>
+      <li>Magento 2: <a href="https://github.com/mollie/magento2">Github</a> | <a href="https://marketplace.magento.com/mollie-magento2.html">Marketplace</a></li>
+    </ul>
+   </li>
+ 	<li>Buckaroo (TIG)
 <ul>
- 	<li><a href="http://www.magentocommerce.com/magento-connect/buckaroo-payment-suite-9260.html" target="_blank" rel="noopener">Morningtime</a></li>
- 	<li><a href="http://www.totalinternetgroup.nl/modules/webshop/tig/buckaroo.html" target="_blank" rel="noopener">Total Internet Group</a></li>
+ 	<li><a href="https://tig.nl/buckaroo-magento-extensie-community-edition/" target="_blank" rel="noopener">Magento 1</a></li>
+ 	<li><a href="https://marketplace.magento.com/tig-buckaroo.html" target="_blank" rel="noopener">Magento 2</a></li>
 </ul>
 </li>
- 	<li><a href="http://sourceforge.net/projects/adyen/" target="_blank" rel="noopener">Adyen</a></li>
- 	<li><a href="http://www.icepay.com/developer-network" target="_blank" rel="noopener">IcePay</a></li>
+ 	<li>Adyen (Adyen)
+   <ul>
+     <li><a href="https://github.com/Adyen/adyen-magento">Magento 1</a></li>
+     <li><a href="https://github.com/Adyen/adyen-magento2">Magento 2</a></li>
+   </ul>
+  </li>
+ 	<li>IcePay (IcePay)
+    <ul>
+      <li><a href="https://icepay.com/nl/webshop-modules/magento-advanced/">Magento 1</a></li>
+      <li><a href="https://icepay.com/nl/webshop-modules/magento-2/">Magento 2</a></li>
+    </ul>
+  </li>
  	<li>iDEAL
 <ul>
  	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-easy-abn-amro-bank.html" target="_blank" rel="noopener">iDEAL Easy (ABN AMRO)</a></li>
