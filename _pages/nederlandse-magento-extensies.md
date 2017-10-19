@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2010-09-08 21:42:35
 ---
-Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a>!
+Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zijn voor de Nederlandse markt, bedoeld als handig startpunt voor als je een nieuwe Magento website gaat beginnen. <a href="https://community.dutchento.org/c/extensions">Plaats je suggesties op ons forum</a> of dien een pull request in op GitHub!
 <h2>Betalingen</h2>
 <h3>Payment Service Providers</h3>
 <ul>
