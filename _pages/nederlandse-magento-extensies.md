@@ -94,8 +94,13 @@ Format:
 </ul>
 Het .csv bestand dien je te importeren via "<em>Sales &gt; Tax &gt; Import / Export Tax Rates</em>"
 <h2>Localisatie</h2>
+Magento 2
 <ul>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/dutch-netherlands-language-package.html" target="_blank" rel="noopener">Official Dutch Language Pack</a></li>
+  <li><a href="https://marketplace.magento.com/honl-magento2-nl-nl.html">Marketplace</a> | <a href="https://crowdin.com/translate/magento-2/1374/enus-nl">CrowdIn</a> (H&O)</li>
+</ul>
+Magento 1
+<ul>
+  <li><a href="https://www.magentocommerce.com/magento-connect/dutch-netherlands-language-package.html" target="_blank" rel="noopener">Official Dutch Language Pack</a></li>
  	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertaling Magento CE 1.7.x</a></li>
  	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertalingen voor Magento CE 1.7.x, 1.8.x en 1.9.x</a></li>
  	<li>Transactionele e-mails
