@@ -32,7 +32,12 @@ Format:
 <h2>Betalingen</h2>
 <h3>Payment Service Providers</h3>
 <ul>
- 	<li>MultiSafePay (MultiSafePay)
+<li>Pay.nl (Pay.nl)
+  <ul>
+    <li>Magento 2: <a href="https://marketplace.magento.com/paynl-magento2-plugin.html">Marketplace</a></li>
+  </ul>
+</li>
+<li>MultiSafePay (MultiSafePay)
     <ul>
      <li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">Magento 1</a></li>
       <li>Magento 2: <a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a> | <a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento-2-1/">MultiSafePay</a></li>
