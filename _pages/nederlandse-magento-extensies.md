@@ -97,12 +97,9 @@ Magento 1
  	<li><a href="https://www.magentocommerce.com/magento-connect/afas-profit-erp-connector.html" target="_blank" rel="noopener">AFAS Profit ERP Connector</a> (Gladior)</li>
  	<li><a href="http://www.dealer4dealer.nl/producten/magento-exact-globe-koppeling" target="_blank" rel="noopener">Exact Globe</a> (Dealer4Dealer)</li>
  	<li><a href="http://www.dealer4dealer.nl/producten/magento-exact-online-koppeling" target="_blank" rel="noopener">Exact Online</a> (Dealer4Dealer)</li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/reeleezee-integraton.html" target="_blank" rel="noopener">Magento - Reeleezee</a> (Realvine / MindStretch)</li>
  	<li><a href="http://www.younify.nl/" target="_blank" rel="noopener">Twinfield</a> (Younify)</li>
- 	<li><a title="Accountview" href="http://www.synocom.nl/accountview-koppeling-met-uw-magento-webshop" target="_blank" rel="noopener">Accountview</a> (Synocom)</li>
  	<li>UNIT4
 <ul>
- 	<li><a href="http://www.synocom.nl/unit4-business-software-gekoppeld-met-magento" target="_blank" rel="noopener">Synocom</a></li>
  	<li><a href="http://www.gbsolutions.nl/producten/unit4-multivers-koppeling/magento/" target="_blank" rel="noopener">GB Business Solutions</a></li>
 </ul>
 </li>
@@ -111,9 +108,6 @@ Magento 1
  	<li><a href="http://www.gbsolutions.nl/producten/unit4-multivers-koppeling/magento/" target="_blank" rel="noopener">GB Business Solutions</a></li>
 </ul>
 </li>
- 	<li><a title="Microsoft Dynamics Axapta" href="http://www.synocom.nl/magento-microsoft-dynamics-axapta-koppeling" target="_blank" rel="noopener">Microsoft Dynamics Axapta</a> (Synocom)</li>
- 	<li><a title="Microsoft Dynamics NAV" href="http://www.synocom.nl/microsoft-dynamics-nav-gekoppeld-met-uw-magento-webshop" target="_blank" rel="noopener">Microsoft Dynamics NAV</a> (Synocom)</li>
- 	<li><a title="AFAS" href="http://www.synocom.nl/koppeling-tussen-afas-en-uw-magento-webshop" target="_blank" rel="noopener">AFAS</a> (Synocom)</li>
  	<li style="text-align: left;"><a href="https://www.magentocommerce.com/magento-connect/automated-export-to-e-boekhouden-nl.html" target="_blank" rel="noopener">Automated export to e-Boekhouden (e-Boekhouden)</a></li>
  	<li style="text-align: left;"><a href="http://www.cash.nl/" target="_blank" rel="noopener">CASH bedrijfssoftware</a> (Cash Software)</li>
  	<li style="text-align: left;"><a href="http://www.toverteam.nl/magento-twinfield-koppeling" target="_blank" rel="noopener">Magento Twinfield Koppeling</a> (ToverTeam Internet Marketing)</li>
