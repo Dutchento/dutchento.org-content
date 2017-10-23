@@ -48,28 +48,16 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
       <li><a href="https://icepay.com/nl/webshop-modules/magento-2/">Magento 2</a></li>
     </ul>
   </li>
- 	<li>iDEAL
-<ul>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-easy-abn-amro-bank.html" target="_blank" rel="noopener">iDEAL Easy (ABN AMRO)</a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-only-kassa-abn-amro-bank.html" target="_blank" rel="noopener">iDEAL Only Kassa (ABN AMRO)</a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-lite-rabobank.html" target="_blank" rel="noopener">iDEAL Lite (Rabobank) </a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-kassa-rabobank.html" target="_blank" rel="noopener">iDEAL Kassa (Rabobank)</a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-professional-rabobank.html" target="_blank" rel="noopener">iDEAL Professional (Rabobank)</a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-basic-ing-bank.html" target="_blank" rel="noopener">iDEAL Basic (ING Bank)</a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-advanced-ing-bank.html" target="_blank" rel="noopener">iDEAL Advanced (ING Bank)</a></li>
-</ul>
-</li>
  	<li>Afterpay
   <ul>
       <li>M1: <a href="https://github.com/afterpay/afterpay-magento" target="_blank" rel="noopener">Github</a> (TIG)</li>
       <li>M2: <a href="https://github.com/afterpay/afterpay-magento-2" target="_blank" rel="noopener">Github</a> (TIG)</li>
     </ul>
   </li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/ing-complete-checkout-ing-kassa-compleet.html" target="_blank" rel="noopener">ING Kassa Compleet</a></li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/rabo-omnikassa.html" target="_blank" rel="noopener">Rabo Omnikassa </a></li>
- 	<li><a href="http://www.magentocommerce.com/magento-connect/ogone-9913.html" target="_blank" rel="noopener">Official Ogone Extension</a>
+ 	<li><a href="https://marketplace.magento.com/ingpsp-ing-magento2.html" target="_blank" rel="noopener">ING PSP</a> (M2)</li>
+ 	<li><a href="https://marketplace.magento.com/ingenico-ogone-epayments.html" target="_blank" rel="noopener">Official Ingenico Extension (Ogone)</a>
 <ul>
- 	<li><a href="http://www.magentocommerce.com/magento-connect/Morningtime/extension/5421/morningtime_abn_amro_internetkassa" target="_blank" rel="noopener">ABN AMRO Internetkassa</a> (Morningtime)</li>
+ 	<li><a href="https://marketplace.magento.com/sureict-idealeasypayment.html" target="_blank" rel="noopener">ABN AMRO iDeal Easy</a> (Sure ICT)</li>
 </ul>
 </li>
  	<li><a href="https://www.sisow.nl/integratie-plugin" target="_blank" rel="noopener">Sisow Payment Innovations (M1 & M2)</a></li>
@@ -86,7 +74,6 @@ M2
 </ul>
 M1
 <ul>
-  <li><a href="https://www.magentocommerce.com/magento-connect/dutch-netherlands-language-package.html" target="_blank" rel="noopener">Official Dutch Language Pack</a></li>
  	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertalingen voor Magento CE 1.7.x, 1.8.x en 1.9.x</a></li>
  	<li>Transactionele e-mails
 <ul>
@@ -98,7 +85,6 @@ M1
 </ul>
 <h2>Administratie</h2>
 <ul>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/afas-profit-erp-connector.html" target="_blank" rel="noopener">AFAS Profit ERP Connector</a> (Gladior)</li>
  	<li><a href="http://www.dealer4dealer.nl/producten/magento-exact-globe-koppeling" target="_blank" rel="noopener">Exact Globe</a> (Dealer4Dealer)</li>
  	<li><a href="http://www.dealer4dealer.nl/producten/magento-exact-online-koppeling" target="_blank" rel="noopener">Exact Online</a> (Dealer4Dealer)</li>
  	<li><a href="http://www.younify.nl/" target="_blank" rel="noopener">Twinfield</a> (Younify)</li>
@@ -112,7 +98,6 @@ M1
  	<li><a href="http://www.gbsolutions.nl/producten/unit4-multivers-koppeling/magento/" target="_blank" rel="noopener">GB Business Solutions</a></li>
 </ul>
 </li>
- 	<li style="text-align: left;"><a href="https://www.magentocommerce.com/magento-connect/automated-export-to-e-boekhouden-nl.html" target="_blank" rel="noopener">Automated export to e-Boekhouden (e-Boekhouden)</a></li>
  	<li style="text-align: left;"><a href="http://www.cash.nl/" target="_blank" rel="noopener">CASH bedrijfssoftware</a> (Cash Software)</li>
  	<li style="text-align: left;"><a href="http://www.toverteam.nl/magento-twinfield-koppeling" target="_blank" rel="noopener">Magento Twinfield Koppeling</a> (ToverTeam Internet Marketing)</li>
 </ul>
@@ -123,14 +108,7 @@ M2
 </ul>
 M1
 <ul>
- 	<li><a title="Magento - DPD DELIsprint" href="http://www.magentocommerce.com/magento-connect/dpd-delisprint-integration-5212.html" target="_blank" rel="noopener">DPD DELIsprint</a> (XTENTO)</li>
- 	<li><a title="Magento - GLS Labellite" href="http://www.magentocommerce.com/magento-connect/magento-gls-labellite.html" target="_blank" rel="noopener">GLS Labellite</a> (Mindstretch)</li>
- 	<li><a title="Magento - Kiala" href="http://www.magentocommerce.com/magento-connect/kiala-parcel-delivery-2456.html" target="_blank" rel="noopener">Kiala</a> (PHPro)</li>
- 	<li><a href="http://www.magentocommerce.com/magento-connect/magento-tnt-parcelware-desktop.html" target="_blank" rel="noopener">TNT Parcelware Desktop</a> (Mindstretch)</li>
- 	<li><a title="Magento - TNT Parcelware Web" href="http://www.magentocommerce.com/magento-connect/magento-tnt-parcelware-web.html" target="_blank" rel="noopener">TNT Parcelware Web</a> (Mindstretch)</li>
- 	<li><a title="Magento - Van de Scheur E-fulfilment" href="http://www.magaddons.com/vds-efulfilment.html" target="_blank" rel="noopener">Van de Scheur E-fulfilment</a> (Mindstretch)</li>
- 	<li><a title="Magento - Webservices Adres Validatie" href="http://www.magaddons.com/webservices-adresvalidatie.html" target="_blank" rel="noopener">Webservices Adres Validatie</a> (Mindstretch)</li>
- 	<li><a href="http://www.magentocommerce.com/magento-connect/paazl-logistieke-webwinkel-software.html" target="_blank" rel="noopener">Paazl</a></li>
+ 	<li><a href="https://github.com/Paazl/magento2-Paazl" target="_blank" rel="noopener">Paazl</a> (M2)</li>
  	<li><a href="http://www.12return.nl/" target="_blank" rel="noopener">Retouren</a> (12Return)</li>
 </ul>
 <h2>Marketing</h2>
@@ -141,8 +119,8 @@ M1
  	<li><a title="ReloadSEO" href="https://www.reloadseo.com/magento-seo-extension-reloadseo/" target="_blank" rel="noopener">ReloadSEO</a> [€]</li>
  	<li><a href="https://www.younify.nl/magento-extensies/accessoires-sales-booster/" target="_blank" rel="noopener">Accessoires Sales Booster</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/nieuwsbrief-abonnees-importeren/" target="_blank" rel="noopener">Nieuwsbrief abonnees importeren</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-google-shopping/" target="_blank" rel="noopener">Magento Google Shopping</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-kiyoh/" target="_blank" rel="noopener">Magento KiyOh extensie</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-google-shopping/" target="_blank" rel="noopener">Google Shopping</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-kiyoh/" target="_blank" rel="noopener">KiyOh extensie</a> [€] (Younify)</li>
 </ul>
 <h2>Product beheeer/ERP koppelingen</h2>
 <ul>
