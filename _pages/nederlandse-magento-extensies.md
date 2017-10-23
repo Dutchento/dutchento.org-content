@@ -15,19 +15,19 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
 <ul>
 <li>Pay.nl (Pay.nl)
   <ul>
-    <li>Magento 2: <a href="https://marketplace.magento.com/paynl-magento2-plugin.html">Marketplace</a></li>
+    <li>M2: <a href="https://marketplace.magento.com/paynl-magento2-plugin.html">Marketplace</a></li>
   </ul>
 </li>
 <li>MultiSafePay (MultiSafePay)
     <ul>
      <li><a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento/" target="_blank" rel="noopener">Magento 1</a></li>
-      <li>Magento 2: <a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a> | <a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento-2-1/">MultiSafePay</a></li>
+      <li>M2: <a href="https://marketplace.magento.com/multisafepay-magento2msp.html">Marketplace</a> | <a href="https://www.multisafepay.com/nl_nl/oplossingen/shop-plug-ins/detail/plugins/magento-2-1/">MultiSafePay</a></li>
      </li>
     </ul>
  	<li>Mollie (Mollie) 
     <ul>
-      <li>Magento 1: <a href="https://github.com/mollie/magento">Github</a></li>
-      <li>Magento 2: <a href="https://github.com/mollie/magento2">Github</a> | <a href="https://marketplace.magento.com/mollie-magento2.html">Marketplace</a></li>
+      <li>M1: <a href="https://github.com/mollie/magento">Github</a></li>
+      <li>M2: <a href="https://github.com/mollie/magento2">Github</a> | <a href="https://marketplace.magento.com/mollie-magento2.html">Marketplace</a></li>
     </ul>
    </li>
  	<li>Buckaroo (TIG)
@@ -75,11 +75,11 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
 </ul>
 
 <h2>Localisatie</h2>
-Magento 2
+M2
 <ul>
   <li><a href="https://marketplace.magento.com/honl-magento2-nl-nl.html">Marketplace</a> | <a href="https://crowdin.com/translate/magento-2/1374/enus-nl">CrowdIn</a> (H&O)</li>
 </ul>
-Magento 1
+M1
 <ul>
   <li><a href="https://www.magentocommerce.com/magento-connect/dutch-netherlands-language-package.html" target="_blank" rel="noopener">Official Dutch Language Pack</a></li>
  	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertaling Magento CE 1.7.x</a></li>
@@ -113,11 +113,11 @@ Magento 1
  	<li style="text-align: left;"><a href="http://www.toverteam.nl/magento-twinfield-koppeling" target="_blank" rel="noopener">Magento Twinfield Koppeling</a> (ToverTeam Internet Marketing)</li>
 </ul>
 <h2>Logistiek</h2>
-Magento 2
+M2
 <ul>
   <li><a title="Magento 2 - Postcode.nl Validatie" href="https://github.com/experius/Magento-2-Module-Experius-Postcode-NL">Postcode.nl Validatie - Github</a> (Experius)</li>
 </ul>
-Magento 1
+M1
 <ul>
  	<li><a title="Magento - DPD DELIsprint" href="http://www.magentocommerce.com/magento-connect/dpd-delisprint-integration-5212.html" target="_blank" rel="noopener">DPD DELIsprint</a> (XTENTO)</li>
  	<li><a title="Magento - GLS Labellite" href="http://www.magentocommerce.com/magento-connect/magento-gls-labellite.html" target="_blank" rel="noopener">GLS Labellite</a> (Mindstretch)</li>
@@ -134,7 +134,7 @@ Magento 1
  	<li><a href="http://www.copernica.com/nl/ondersteuning/integraties/magento" target="_blank" rel="noopener">Copernica E-mail marketing</a> (Bookerz & Cream)</li>
  	<li><a href="http://www.mailplus.nl/start-met-mailplus/integratiemogelijkheden/magento?id=1281" target="_blank" rel="noopener">MailPlus-connector</a> - Magento 1 & 2 (MailPlus)</li>
  	<li><a href="https://marketplace.magento.com/interactivated-customerreview.html" target="_blank" rel="noopener">Klantbeoordelingen </a>(KiyOh)</li>
- 	<li><a title="ReloadSEO" href="https://www.reloadseo.com/magento-seo-extension-reloadseo/" target="_blank" rel="noopener">ReloadSEO</a></li>
+ 	<li><a title="ReloadSEO" href="https://www.reloadseo.com/magento-seo-extension-reloadseo/" target="_blank" rel="noopener">ReloadSEO</a> [€]</li>
  	<li><a href="https://www.younify.nl/magento-extensies/accessoires-sales-booster/" target="_blank" rel="noopener">Accessoires Sales Booster</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/nieuwsbrief-abonnees-importeren/" target="_blank" rel="noopener">Nieuwsbrief abonnees importeren</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/magento-google-shopping/" target="_blank" rel="noopener">Magento Google Shopping</a> [€] (Younify)</li>
@@ -143,22 +143,23 @@ Magento 1
 <h2>Product beheeer/ERP koppelingen</h2>
 <ul>
  	<li><a href="https://www.younify.nl/magento-extensies/magento-product-import/" target="_blank" rel="noopener">Magento product import (All-in-one)</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-wefact/" target="_blank" rel="noopener">Magento WeFact</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/aca-magento-webshop/" target="_blank" rel="noopener">Magento ACA</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-wefact/" target="_blank" rel="noopener">WeFact</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/aca-magento-webshop/" target="_blank" rel="noopener">ACA</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-snelstart-koppeling/" target="_blank" rel="noopener">Magento snelstart koppeling</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-softwear-koppeling/" target="_blank" rel="noopener">Magento Softwear koppeling</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-jupa-koppeling/" target="_blank" rel="noopener">Magento JUPA koppeling </a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-winpos/" target="_blank" rel="noopener">Magento WinPos koppeling</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-unit4-koppeling/" target="_blank" rel="noopener">Magento Unit4 koppeling</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-accountview-koppeling/" target="_blank" rel="noopener">Magento accountview koppeling</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-muis-software-koppeling/" target="_blank" rel="noopener">Magento Muis Software</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-softwear-koppeling/" target="_blank" rel="noopener">Softwear</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-jupa-koppeling/" target="_blank" rel="noopener">JUPA</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-winpos/" target="_blank" rel="noopener">WinPos</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-unit4-koppeling/" target="_blank" rel="noopener">Unit4</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-accountview-koppeling/" target="_blank" rel="noopener">Accountview</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-muis-software-koppeling/" target="_blank" rel="noopener">Muis Software</a> [€] (Younify)</li>
 </ul>
 <h2>Overige</h2>
-<ul>
-  <li>OneStepCheckout
+ <ul>
+ <li><a href="https://marketplace.magento.com/epartment-official-idin-magento-extension.html" target="_blank" rel="noopener">iDin (M1)</a></li>
+  <li>One Step Checkout
     <ul>
-      <li>Magento 1: <a href="https://www.onestepcheckout.com/magento-1/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
-      <li>Magento 2:<a href="https://www.onestepcheckout.com/magento-2/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
+      <li>M1: <a href="https://www.onestepcheckout.com/magento-1/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
+      <li>M2:<a href="https://www.onestepcheckout.com/magento-2/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
     </ul>
   </li>
 </ul>
@@ -183,8 +184,8 @@ Standaard format met maximale info:
 <ul>
   <li>Naam extensie
     <ul>
-      <li>Magento 1: <a href="" target="_blank" rel="noopener">Marketplace</a> | <a href="" target="_blank" rel="noopener">Github</a> | <a href="" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (Naam ontwikkelaar)</li>
-      <li>Magento 2: <a href="" target="_blank" rel="noopener">Marketplace</a> | <a href="" target="_blank" rel="noopener">Github</a> | <a href="" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (Naam ontwikkelaar)</li>
+      <li>M1: <a href="" target="_blank" rel="noopener">Marketplace</a> | <a href="" target="_blank" rel="noopener">Github</a> | <a href="" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (Naam ontwikkelaar)</li>
+      <li>M2: <a href="" target="_blank" rel="noopener">Marketplace</a> | <a href="" target="_blank" rel="noopener">Github</a> | <a href="" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (Naam ontwikkelaar)</li>
     </ul>
   </li>
 </ul>
