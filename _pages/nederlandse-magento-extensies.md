@@ -157,8 +157,12 @@ Magento 1
 </ul>
 <h2>Overige</h2>
 <ul>
- 	<li><a title="Better Address Layout" href="http://www.magaddons.com/better-address-layout.html" target="_blank" rel="noopener">Better Address Layout</a> (Mindstretch)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/onestepcheckout/" target="_blank" rel="noopener">OneStepCheckout </a>(Younify)</li>
+  <li>OneStepCheckout
+    <ul>
+      <li>Magento 1: <a href="https://www.onestepcheckout.com/magento-1/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
+      <li>Magento 2:<a href="https://www.onestepcheckout.com/magento-2/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
+    </ul>
+  </li>
 </ul>
 <hr />
 <a name="Richtlijnen"></a><h3>Richtlijnen voor het toevoegen van extensies aan deze lijst:</h3>
