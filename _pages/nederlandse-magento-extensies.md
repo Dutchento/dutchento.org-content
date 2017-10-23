@@ -131,22 +131,20 @@ Magento 1
 </ul>
 <h2>Marketing</h2>
 <ul>
- 	<li><a title="Magento - Daisycon Affiliate" href="http://www.magentocommerce.com/magento-connect/daisycon-xml-product-feed.html" target="_blank" rel="noopener">Daisycon Affiliate XML product feed</a></li>
- 	<li><a href="http://www.copernica.com/nl/ondersteuning/integraties/magento" target="_blank" rel="noopener">Copernica E-mail marketing</a></li>
- 	<li><a href="http://www.mailplus.nl/start-met-mailplus/integratiemogelijkheden/magento?id=1281" target="_blank" rel="noopener">MailPlus-connector</a> (MailPlus)</li>
- 	<li><a href="https://www.magentocommerce.com/magento-connect/kiyoh-customerreview.html" target="_blank" rel="noopener">Klantbeoordelingen </a>(KiyOh)</li>
- 	<li><a title="ReloadSEO" href="https://www.reloadseo.com/" target="_blank" rel="noopener">ReloadSEO</a></li>
- 	<li><a href="http://www.createaclang.nl/unieke-functies/perfecte-uitbreidingen" target="_blank" rel="noopener">Clang</a></li>
- 	<li><a href="https://www.younify.nl/magento-extensies/accessoires-sales-booster/" target="_blank" rel="noopener">Accessoires Sales Booster</a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/nieuwsbrief-abonnees-importeren/" target="_blank" rel="noopener">Nieuwsbrief abonnees importeren</a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-google-shopping/" target="_blank" rel="noopener">Magento Google Shopping </a>(Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-kiyoh/" target="_blank" rel="noopener">Magento KiyOh extensie</a> (Younify)</li>
+ 	<li><a href="http://www.copernica.com/nl/ondersteuning/integraties/magento" target="_blank" rel="noopener">Copernica E-mail marketing</a> (Bookerz & Cream)</li>
+ 	<li><a href="http://www.mailplus.nl/start-met-mailplus/integratiemogelijkheden/magento?id=1281" target="_blank" rel="noopener">MailPlus-connector</a> - Magento 1 & 2 (MailPlus)</li>
+ 	<li><a href="https://marketplace.magento.com/interactivated-customerreview.html" target="_blank" rel="noopener">Klantbeoordelingen </a>(KiyOh)</li>
+ 	<li><a title="ReloadSEO" href="https://www.reloadseo.com/magento-seo-extension-reloadseo/" target="_blank" rel="noopener">ReloadSEO</a></li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/accessoires-sales-booster/" target="_blank" rel="noopener">Accessoires Sales Booster</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/nieuwsbrief-abonnees-importeren/" target="_blank" rel="noopener">Nieuwsbrief abonnees importeren</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-google-shopping/" target="_blank" rel="noopener">Magento Google Shopping</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-kiyoh/" target="_blank" rel="noopener">Magento KiyOh extensie</a> [€] (Younify)</li>
 </ul>
-<h2>Product beheer</h2>
+<h2>Product beheeer/ERP koppelingen</h2>
 <ul>
  	<li><a href="https://www.younify.nl/magento-extensies/magento-product-import/" target="_blank" rel="noopener">Magento product import (All-in-one)</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/magento-wefact/" target="_blank" rel="noopener">Magento WeFact</a> [€] (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/aca-magento-webshop/" target="_blank" rel="noopener">ACA Magento</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/aca-magento-webshop/" target="_blank" rel="noopener">Magento ACA</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-snelstart-koppeling/" target="_blank" rel="noopener">Magento snelstart koppeling</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-softwear-koppeling/" target="_blank" rel="noopener">Magento Softwear koppeling</a> [€] (Younify)</li>
  	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-jupa-koppeling/" target="_blank" rel="noopener">Magento JUPA koppeling </a> [€] (Younify)</li>
