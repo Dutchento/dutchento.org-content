@@ -144,16 +144,16 @@ Magento 1
 </ul>
 <h2>Product beheer</h2>
 <ul>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-product-import/" target="_blank" rel="noopener">Magento product import</a> (All-in-one)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/magento-wefact/" target="_blank" rel="noopener">Magento WeFact </a>(Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/aca-magento-webshop/" target="_blank" rel="noopener">ACA Magento</a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-snelstart-koppeling/" target="_blank" rel="noopener">Magento snelstart koppeling</a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-softwear-koppeling/" target="_blank" rel="noopener">Magento Softwear koppeling </a>(Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-jupa-koppeling/" target="_blank" rel="noopener">Magento JUPA koppeling </a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-winpos/" target="_blank" rel="noopener">Magento WinPos koppeling</a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-unit4-koppeling/" target="_blank" rel="noopener">Magento Unit4 koppeling </a>(Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-accountview-koppeling/" target="_blank" rel="noopener">Magento accountview koppeling</a> (Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-muis-software-koppeling/" target="_blank" rel="noopener">Magento Muis Software</a> (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-product-import/" target="_blank" rel="noopener">Magento product import (All-in-one)</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/magento-wefact/" target="_blank" rel="noopener">Magento WeFact</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/aca-magento-webshop/" target="_blank" rel="noopener">ACA Magento</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-snelstart-koppeling/" target="_blank" rel="noopener">Magento snelstart koppeling</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-softwear-koppeling/" target="_blank" rel="noopener">Magento Softwear koppeling</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-jupa-koppeling/" target="_blank" rel="noopener">Magento JUPA koppeling </a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-winpos/" target="_blank" rel="noopener">Magento WinPos koppeling</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-unit4-koppeling/" target="_blank" rel="noopener">Magento Unit4 koppeling</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-accountview-koppeling/" target="_blank" rel="noopener">Magento accountview koppeling</a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-muis-software-koppeling/" target="_blank" rel="noopener">Magento Muis Software</a> [€] (Younify)</li>
 </ul>
 <h2>Overige</h2>
 <ul>
