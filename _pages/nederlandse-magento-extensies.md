@@ -59,7 +59,12 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
  	<li><a href="https://www.magentocommerce.com/magento-connect/ideal-advanced-ing-bank.html" target="_blank" rel="noopener">iDEAL Advanced (ING Bank)</a></li>
 </ul>
 </li>
- 	<li><a href="https://tig.nl/onze-cases/afterpay/" target="_blank" rel="noopener">Afterpay</a></li>
+ 	<li>Afterpay
+  <ul>
+      <li>M1: <a href="https://github.com/afterpay/afterpay-magento" target="_blank" rel="noopener">Github</a> (TIG)</li>
+      <li>M2: <a href="https://github.com/afterpay/afterpay-magento-2" target="_blank" rel="noopener">Github</a> (TIG)</li>
+    </ul>
+  </li>
  	<li><a href="https://www.magentocommerce.com/magento-connect/ing-complete-checkout-ing-kassa-compleet.html" target="_blank" rel="noopener">ING Kassa Compleet</a></li>
  	<li><a href="https://www.magentocommerce.com/magento-connect/rabo-omnikassa.html" target="_blank" rel="noopener">Rabo Omnikassa </a></li>
  	<li><a href="http://www.magentocommerce.com/magento-connect/ogone-9913.html" target="_blank" rel="noopener">Official Ogone Extension</a>
@@ -67,11 +72,11 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
  	<li><a href="http://www.magentocommerce.com/magento-connect/Morningtime/extension/5421/morningtime_abn_amro_internetkassa" target="_blank" rel="noopener">ABN AMRO Internetkassa</a> (Morningtime)</li>
 </ul>
 </li>
- 	<li><a href="https://www.sisow.nl/algemeen/implementatie" target="_blank" rel="noopener">Sisow Payment Innovations</a></li>
+ 	<li><a href="https://www.sisow.nl/integratie-plugin" target="_blank" rel="noopener">Sisow Payment Innovations (M1 & M2)</a></li>
  	<li><a href="http://integratie.creditsafe.nl/magento/" target="_blank" rel="noopener">Creditsafe</a> (in samenwerking met Hypershop)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-unisoft-kassasysteem-koppeling/" target="_blank" rel="noopener">Magento Unisoft Kassasysteem </a>(Younify)</li>
- 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-koppeling-bolt-kassasysteem/" target="_blank" rel="noopener">Magento Koppeling BOLT kassasysteem </a>(Younify)</li>
- 	<li><a href="https://www.frmwrk.nl/magento/vendit-webshop" target="_blank" rel="noopener">ShopConnector - de koppeling tussen Magento en Vendit VMSII</a> (FRMWRK)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-unisoft-kassasysteem-koppeling/" target="_blank" rel="noopener">Unisoft Kassasysteem </a> [€] (Younify)</li>
+ 	<li><a href="https://www.younify.nl/magento-extensies/koppelingen/magento-koppeling-bolt-kassasysteem/" target="_blank" rel="noopener">BOLT kassasysteem </a> [€] (Younify)</li>
+ 	<li><a href="https://www.frmwrk.nl/magento/vendit-webshop" target="_blank" rel="noopener">Vendit VMSII</a> [€] (FRMWRK)</li>
 </ul>
 
 <h2>Localisatie</h2>
@@ -82,7 +87,6 @@ M2
 M1
 <ul>
   <li><a href="https://www.magentocommerce.com/magento-connect/dutch-netherlands-language-package.html" target="_blank" rel="noopener">Official Dutch Language Pack</a></li>
- 	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertaling Magento CE 1.7.x</a></li>
  	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertalingen voor Magento CE 1.7.x, 1.8.x en 1.9.x</a></li>
  	<li>Transactionele e-mails
 <ul>
@@ -158,8 +162,8 @@ M1
  <li><a href="https://marketplace.magento.com/epartment-official-idin-magento-extension.html" target="_blank" rel="noopener">iDin (M1)</a></li>
   <li>One Step Checkout
     <ul>
-      <li>M1: <a href="https://www.onestepcheckout.com/magento-1/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
-      <li>M2:<a href="https://www.onestepcheckout.com/magento-2/" target="_blank" rel="noopener">Productpagina op website ontwikkelaar</a> [€] (OneStepCheckout)</li>
+      <li>M1: <a href="https://www.onestepcheckout.com/magento-1/" target="_blank" rel="noopener">Productpagina</a> [€] (OneStepCheckout)</li>
+      <li>M2: <a href="https://www.onestepcheckout.com/magento-2/" target="_blank" rel="noopener">Productpagina</a> [€] (OneStepCheckout)</li>
     </ul>
   </li>
 </ul>
