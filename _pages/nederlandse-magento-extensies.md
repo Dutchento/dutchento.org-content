@@ -50,8 +50,8 @@ Hieronder vind je een overzicht van Magento extensies welke specifiek bedoeld zi
   </li>
  	<li>Afterpay
   <ul>
-      <li>M1: <a href="https://github.com/afterpay/afterpay-magento" target="_blank" rel="noopener">Github</a> (TIG)</li>
-      <li>M2: <a href="https://github.com/afterpay/afterpay-magento-2" target="_blank" rel="noopener">Github</a> (TIG)</li>
+      <li>M1: <a href="https://github.com/afterpay/afterpay-magento" target="_blank" rel="noopener">Github</a></li>
+      <li>M2: <a href="https://github.com/afterpay/afterpay-magento-2" target="_blank" rel="noopener">Github</a></li>
     </ul>
   </li>
  	<li><a href="https://marketplace.magento.com/ingpsp-ing-magento2.html" target="_blank" rel="noopener">ING PSP</a> (M2)</li>
@@ -102,14 +102,16 @@ M1
  	<li style="text-align: left;"><a href="http://www.toverteam.nl/magento-twinfield-koppeling" target="_blank" rel="noopener">Magento Twinfield Koppeling</a> (ToverTeam Internet Marketing)</li>
 </ul>
 <h2>Logistiek</h2>
-M2
 <ul>
-  <li><a title="Magento 2 - Postcode.nl Validatie" href="https://github.com/experius/Magento-2-Module-Experius-Postcode-NL">Postcode.nl Validatie - Github</a> (Experius)</li>
-</ul>
-M1
-<ul>
- 	<li><a href="https://github.com/Paazl/magento2-Paazl" target="_blank" rel="noopener">Paazl</a> (M2)</li>
- 	<li><a href="http://www.12return.nl/" target="_blank" rel="noopener">Retouren</a> (12Return)</li>
+    <li><a title="Magento 2 - Postcode.nl Validatie" href="https://github.com/experius/Magento-2-Module-Experius-Postcode-NL">Postcode.nl Validatie - Github</a> (M2)</li>
+    <li><a href="https://github.com/Paazl/magento2-Paazl" target="_blank" rel="noopener">Paazl</a> (M2)</li>
+    <li><a href="http://www.12return.nl/" target="_blank" rel="noopener">Retouren</a> (M2)</li>
+    <li>PostNL
+        <ul>
+            <li>M1: <a href="https://github.com/tig-nl/postnl-magento1" target="_blank">Github</a> | <a href="https://tig.nl/postnl-magento-extensie-community-edition/" target="_blank">TIG</a>
+            <li>M2: <a href="https://github.com/tig-nl/postnl-magento2" target="_blank">Github</a> | <a href="https://tig.nl/postnl-magento-2-extensie-community-edition/" target="_blank">TIG</a>
+        </ul>
+    </li>
 </ul>
 <h2>Marketing</h2>
 <ul>
