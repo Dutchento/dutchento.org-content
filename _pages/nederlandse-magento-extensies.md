@@ -83,8 +83,8 @@ M1
 </ul>
 <h2>Administratie</h2>
 <ul>
- 	<li><a href="http://www.dealer4dealer.nl/producten/magento-exact-globe-koppeling" target="_blank" rel="noopener">Exact Globe</a> (Dealer4Dealer)</li>
- 	<li><a href="http://www.dealer4dealer.nl/producten/magento-exact-online-koppeling" target="_blank" rel="noopener">Exact Online</a> (Dealer4Dealer)</li>
+ 	<li><a href="https://dealer4dealer.nl/exact-app-store/exact-globe/" target="_blank" rel="noopener">Exact Globe</a> (Dealer4Dealer)</li>
+ 	<li><a href="https://dealer4dealer.nl/exact-app-store/exact-online/" target="_blank" rel="noopener">Exact Online</a> (Dealer4Dealer)</li>
  	<li><a href="http://www.younify.nl/" target="_blank" rel="noopener">Twinfield</a> (Younify)</li>
  	<li>UNIT4
 <ul>
