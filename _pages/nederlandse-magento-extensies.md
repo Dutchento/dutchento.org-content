@@ -77,8 +77,6 @@ M1
  	<li><a href="https://www.h-o.nl/modules/ho-nl-nl" target="_blank" rel="noopener">Vertalingen voor Magento CE 1.7.x, 1.8.x en 1.9.x</a></li>
  	<li>Transactionele e-mails
 <ul>
- 	<li><a href="http://www.paywithatweet.com/pay/connect.php?id=ab8a52f6b2d4308e9e174b280447b150" target="_blank" rel="noopener">Magento 1.6</a> (pay with a tweet, H&amp;O)</li>
- 	<li><a title="Nederlandse Magento 1.5 transactional e-mails" href="http://www.paywithatweet.com/pay/connect.php?id=e2851ee865b3ba5d59e6035f7f6685dd" target="_blank" rel="noopener">Magento 1.5</a> (pay with a tweet, H&amp;O)</li>
  	<li><a href="https://www.box.com/shared/libvqqmb5q" target="_blank" rel="noopener">Magento 1.3</a> (Jira ICT)</li>
 </ul>
 </li>
