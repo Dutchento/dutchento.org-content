@@ -96,7 +96,6 @@ M1
 </ul>
 </li>
  	<li style="text-align: left;"><a href="http://www.cash.nl/" target="_blank" rel="noopener">CASH bedrijfssoftware</a> (Cash Software)</li>
- 	<li style="text-align: left;"><a href="http://www.toverteam.nl/magento-twinfield-koppeling" target="_blank" rel="noopener">Magento Twinfield Koppeling</a> (ToverTeam Internet Marketing)</li>
 </ul>
 <h2>Logistiek</h2>
 <ul>
