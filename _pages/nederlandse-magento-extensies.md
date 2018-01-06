@@ -85,7 +85,6 @@ M1
 <ul>
  	<li>Exact Globe: <a href="https://dealer4dealer.nl/magento-1-exact-globe-koppeling/" target="_blank" rel="noopener">Magento 1</a> - <a href="https://dealer4dealer.nl/magento-2-exact-globe-koppeling/" target="_blank" rel="noopener">Magento 2</a>(Dealer4Dealer)</li>
  	<li>Exact Online: <a href="https://dealer4dealer.nl/magento1-exact-online-koppeling/" target="_blank" rel="noopener">Magento 1</a> - <a href="https://dealer4dealer.nl/magento-2-exact-online-koppeling/" target="_blank" rel="noopener">Magento 2</a>(Dealer4Dealer)</li>
- 	<li><a href="http://www.younify.nl/" target="_blank" rel="noopener">Twinfield</a> (Younify)</li>
  	<li>UNIT4
 <ul>
  	<li><a href="http://www.gbsolutions.nl/producten/unit4-multivers-koppeling/magento/" target="_blank" rel="noopener">GB Business Solutions</a></li>
